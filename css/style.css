@@ -36,10 +36,11 @@
 .myDescriptionArea {
     position: absolute;
     height: 90%;
-    width: 71%;
+    width: 77%;
     background-color: #FFCD29;
     left: 415px;
     top: 0px;
+    margin-right: 0px;
 
 }
 
@@ -55,7 +56,7 @@
 .popup-btn {
     position: absolute;
     width: 10em;
-    height: 3em;
+    height: 7em;
     right: 90px;
     top: 76%;
     background-color: #FFCD29;
